@@ -1,0 +1,1 @@
+This repository contains a CSS bug and its solution. The bug involves a background image that displays differently across various browsers and screen sizes. The solution provides fixes to ensure consistent display across different devices and browsers.
